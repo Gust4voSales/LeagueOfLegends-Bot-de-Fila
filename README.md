@@ -3,7 +3,7 @@ O bot utiliza as funcionalidades de reconhecimento de imagem da biblioteca Pyaut
 enviar um email, caso tenha sido passado anteriormente, avisando que uma partidade foi encontrada
 
 ### 🛠 Como rodar 
-1. Primeiramente instale a dependência ```pip install pyautogui```
+1. Primeiramente instale as dependências ```pip install pyautogui``` e ```pip install opencv-python```
 2. Preencher o email e senha (variáveis ```SENDER_EMAIL``` e ```PASSWORD ``` da função ```send_email```) para o script realizar o login na conta que vai enviar os emails 
   quando as partidas forem encontradas
 3. Rode o programa, pelo cmd o comando é ```python bot.py```
