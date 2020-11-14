@@ -7,5 +7,4 @@ enviar um email, caso tenha sido passado anteriormente, avisando que uma partida
 2. Preencher o email e senha (variáveis ```SENDER_EMAIL``` e ```PASSWORD ``` da função ```send_email```) para o script realizar o login na conta que vai enviar os emails 
   quando as partidas forem encontradas
 3. Rode o programa, pelo cmd o comando é ```python bot.py```
-4. Deixe o bot rodando e coloque na fila (importante que não fique janelas em cima do launcher do LOL, já que a verificação de que uma partidade foi encontrada é por 
-reconhecimento de imagem no launcher)
+4. Deixe o bot rodando e coloque na fila
