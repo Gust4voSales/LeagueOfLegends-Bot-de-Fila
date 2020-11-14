@@ -1,6 +1,8 @@
 ## 🤖 Bot de Fila do LOL
 O bot utiliza as funcionalidades de reconhecimento de imagem da biblioteca Pyautogui para verificar quando uma fila é encontrada no Lolzin, o bot irá aceitar a fila e 
-enviar um email, caso tenha sido passado anteriormente, avisando que uma partidade foi encontrada
+enviar um email, caso tenha sido passado anteriormente, avisando que uma partidade foi encontrada.
+
+📽 Tutorial no Youtube: https://youtu.be/yN_Gj9AYjF8.
 
 ### 🛠 Como rodar 
 1. Primeiramente instale as dependências ```pip install pyautogui``` e ```pip install opencv-python```
